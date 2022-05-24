@@ -5,7 +5,6 @@ O projeto consiste em desenvolver uma aplicação mobile para o  auxilio da clas
 
 ## YOLO - You Only Look Once
 Para a detecção dos troncos foi utilizada a YOLO em sua quinta versão ( YOLOv5 )
-https://github.com/ultralytics/yolov5
 
 Algumas partes foram alteradas para que a YOLO pudesse se comportar perfeitamente em nosso projeto,
 assim como também os dados foram criados pensando na utilização deste sistema.
