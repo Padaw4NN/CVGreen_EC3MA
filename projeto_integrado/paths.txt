@@ -1,6 +1,0 @@
-
-path_x_train = "/home/alex/Desktop/projeto_integrado/dataset/train/x_train"
-path_y_train = "/home/alex/Desktop/projeto_integrado/dataset/train/y_train"
-
-path_x_test = "/home/alex/Desktop/projeto_integrado/dataset/test/x_test"
-path_y_test = "/home/alex/Desktop/projeto_integrado/dataset/test/y_test"
